@@ -16,6 +16,7 @@ public class Product
 	}
 	public void setPname(String pname) {
 		this.pname = pname;
+		//this is Setobject for set the data to object
 	}
 	public Double getPrice() {
 		return price;
